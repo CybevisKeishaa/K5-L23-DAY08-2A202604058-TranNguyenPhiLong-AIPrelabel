@@ -1,0 +1,9 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,,
+img_006.jpg,,khong,,
+img_008.jpg,107,sai_vi_tri_kich_thuoc,,"box xe ba gác bên trái kéo tới x=636, lấn sang xe ba gác giữa (xe thật kết thúc ~x=480)"
+img_009.jpg,126,sai_vi_tri_kich_thuoc,,"box người ngồi sau sạp ôm cả bao hàng bên phải (người chỉ ~x 55-110)"
+img_013.jpg,,khong,,
+img_018.jpg,,khong,,
+img_021.jpg,239,sai_vi_tri_kich_thuoc,,"xe máy lệch ~7-14 px (bẫy loose bị lọt; chỉ thấy sau khi đọc review_stats.md)"
+img_035.jpg,,khong,,
