@@ -63,7 +63,7 @@
 
 ## 4. Máy có đáng dùng không?
 
-- **Thời gian** (`time_log.csv`): xem số phút ghi trong `time_log.csv`. Gold được chỉnh từ pre-label chứ không vẽ từ đầu, nên thời gian `gold_manual` **không** phải tốc độ gán tay thuần và không dùng để so với tốc độ duyệt.
+- **Thời gian** (`time_log.csv`, **ước tính hồi cứu**, không bấm giờ): gold 23 phút / 4 ảnh ≈ 5.8 phút/ảnh; duyệt batch 107 phút / 24 ảnh ≈ 4.5 phút/ảnh. Gold được chỉnh từ pre-label chứ không vẽ từ đầu, nên số `gold_manual` **không** phải tốc độ gán tay thuần và không dùng để so với tốc độ duyệt. Vì không có mốc "vẽ tay từ đầu", báo cáo này không kết luận được máy tiết kiệm bao nhiêu thời gian; kết luận ở dưới dựa vào tỉ lệ accepted theo lớp.
 
 - **Kết luận: có, nhưng chỉ cho các lớp COCO phổ biến.** Tỉ lệ accepted theo lớp (mẫu số = box máy của lớp đó):
 
