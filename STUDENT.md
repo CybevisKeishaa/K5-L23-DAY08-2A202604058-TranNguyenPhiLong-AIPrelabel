@@ -7,7 +7,7 @@
 - **Lớp:** L2
 - **GitHub:** CybevisKeishaa
 - **Repository:** https://github.com/CybevisKeishaa/K5-L23-DAY08-2A202604058-TranNguyenPhiLong-AIPrelabel
-- **Commit chốt bài:** Chưa điền
+- **Commit chốt bài:** `162723d13e989d038a2c7fb8fc2056e41e9a3858` (bài nộp; commit sau đó chỉ cập nhật dòng này)
 
 ## Môi trường thực hiện
 
